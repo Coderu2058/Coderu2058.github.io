@@ -4,4 +4,4 @@
 
 #### Open for contribution, you can use this as a template of your Portfolio.
 
-#### Link : https://coderu.me/Awesome-Portfolio/
+#### Link : https://coderu.me/
