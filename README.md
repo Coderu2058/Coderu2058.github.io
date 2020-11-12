@@ -1,7 +1,7 @@
 ### My all new Portfolio Website
 
-#### If you like it, Do Fork it.
+#### If you want to make a similar one for yourself then first Fork it and then edit it.
 
-#### Open for contribution, you can use this as a template of your Portfolio.
+#
 
-#### Demo Link : https://coderu.me/
+#### My portfolio Link : https://coderu.me/
